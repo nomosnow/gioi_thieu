@@ -14,14 +14,15 @@
 * description: Intro to our tutorial cards
 * tags: easy
 
-* url: https://github.com/nomosnow/gioi_thieu/tutorials/interface/activity1 
+* url: https://github.com/nomosnow/gioi_thieu/tutorials/interface/activity1
 * imageUrl:  https://raw.githubusercontent.com/nomosnow/gioi_thieu/main/img/interface/activity1.png
 
 ### interface-activity2
+
 * name: Learn to use MakeCode Arcade
 * type: tutorial
 * description: Intro to our tutorial cards
 * tags: easy
 
 * url: https://github.com/nomosnow/gioi_thieu/tutorials/interface/activity2
-* imageUrl: https://raw.githubusercontent.com/nomosnow/gioi_thieu/main/img/interface/activity1.png
+* imageUrl:  https://raw.githubusercontent.com/nomosnow/gioi_thieu/main/img/interface/activity1.png
