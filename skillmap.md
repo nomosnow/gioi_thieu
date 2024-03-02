@@ -23,6 +23,5 @@
 * description: Intro to our tutorial cards
 * tags: easy
 
-url: https://github.com/nomosnow/gioi_thieu/skillmap/interface/activity1
-
-imageUrl: https://raw.githubusercontent.com/nomosnow/gioi_thieu/main/img/interface/activity1.png
+* url: https://github.com/nomosnow/gioi_thieu/skillmap/interface/activity1
+* imageUrl: https://raw.githubusercontent.com/nomosnow/gioi_thieu/main/img/interface/activity1.png
