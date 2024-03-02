@@ -4,7 +4,6 @@
 * infoUrl: /skillmap/educator-info/basic-map-info
 
 
-
 ## Learn to Use Tutorial
 * name: Learn to Use MakeCode Arcade
 * description: Start here if you want to know the ins and outs of Arcade tutorials!
@@ -38,7 +37,7 @@
 * tags: easy, story, card, creative
 * next: clicker-activity1
 
-* url: /skillmap/story/story1 
+* url: /skillmap/story/story1
 * imageUrl: /static/skillmap/story/story-activity1.png
 
 
