@@ -17,7 +17,7 @@
 * url: https://github.com/nomosnow/gioi_thieu/tutorials/interface/activity1 
 * imageUrl:  https://raw.githubusercontent.com/nomosnow/gioi_thieu/main/img/interface/activity1.png
 
-### interface-activity2
+### interface-activity1
 * name: Learn to use MakeCode Arcade
 * type: tutorial
 * description: Intro to our tutorial cards
