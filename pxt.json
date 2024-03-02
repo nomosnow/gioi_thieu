@@ -9,9 +9,7 @@
     "README.md",
     "skillmap.md",
     "tutorials/interface/activity1.md",
-    "beginner-skillmap-2.md",
-    "skillmap/interface/activity1.md",
-    "skillmap/educator-info/basic-map-info.md"
+    "skillmap/interface/activity1.md"
   ],
   "testFiles": [],
   "targetVersions": {
