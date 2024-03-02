@@ -5,12 +5,7 @@
   "dependencies": {
     "device": "*"
   },
-  "files": [
-    "README.md",
-    "skillmap.md",
-    "tutorials/interface/activity1.md"
-    // "tutorials/interface/activity2.md"
-  ],
+  "files": ["README.md", "skillmap.md", "tutorials/interface/activity1.md"],
   "testFiles": [],
   "targetVersions": {
     "target": "1.0.16",
