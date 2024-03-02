@@ -20,7 +20,7 @@
 * imageUrl: /static/skillmap/interface/activity1.png
 
 
-<!-- 
+
 
 
 ## Quick Example Games
@@ -295,8 +295,6 @@
 * url: /skillmap/puzzle/puzzle5
 * imageUrl: /static/skillmap/puzzle/puzzle-activity4.png
 
-
-
 ### puzzle-activity5
 
 * name: Take Over
@@ -306,4 +304,4 @@
 
 
 * url: /skillmap/puzzle/puzzle5
-* imageUrl: /static/skillmap/puzzle/puzzle-activity5.png -->
+* imageUrl: /static/skillmap/puzzle/puzzle-activity5.png

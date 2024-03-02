@@ -8,8 +8,8 @@
   "files": [
     "README.md",
     "skillmap.md",
-    "tutorials/interface/activity1.md",
-    "tutorials/interface/activity2.md"
+    "tutorials/interface/activity1.md"
+    // "tutorials/interface/activity2.md"
   ],
   "testFiles": [],
   "targetVersions": {
