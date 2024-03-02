@@ -13,6 +13,5 @@
 * type: tutorial
 * description: Intro to our tutorial cards
 * tags: easy
-* next: interface-activity2
 * url: https://github.com/nomosnow/gioi_thieu/tutorials/interface/activity1
 * imageUrl:  https://raw.githubusercontent.com/nomosnow/gioi_thieu/main/img/interface/activity1.png
