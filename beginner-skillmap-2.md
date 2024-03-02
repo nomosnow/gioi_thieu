@@ -1,13 +1,13 @@
 # Beginner Arcade
 * name: Beginner's Guide to Arcade Games
 * description: Learn to create arcade games of your own by completing these tutorials.
-* infoUrl: /skillmap/educator-info/basic-map-info
+* infoUrl: https://github.com/nomosnow/gioi_thieu/skillmap/educator-info/basic-map-info
 
 
 ## Learn to Use Tutorial
 * name: Learn to Use MakeCode Arcade
 * description: Start here if you want to know the ins and outs of Arcade tutorials!
-* completionUrl: /skillmap/certificates/understanding-arcade-tutorials.pdf
+* completionUrl: https://github.com/nomosnow/gioi_thieu/certificates/understanding-arcade-tutorials.pdf
 
 ### interface-activity1
 
@@ -16,11 +16,11 @@
 * description: Intro to the features and vocabulary used in Arcade tutorials.
 * tags: easy
 
-* url: /skillmap/interface/activity1 
+* url: https://github.com/nomosnow/gioi_thieu/skillmap/interface/activity1
 * imageUrl: /static/skillmap/interface/activity1.png
 
 
-
+<!-- 
 
 
 ## Quick Example Games
@@ -306,4 +306,4 @@
 
 
 * url: /skillmap/puzzle/puzzle5
-* imageUrl: /static/skillmap/puzzle/puzzle-activity5.png
+* imageUrl: /static/skillmap/puzzle/puzzle-activity5.png -->
